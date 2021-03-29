@@ -2,9 +2,8 @@
 layout: guide
 title: Protecting a wallet
 description: A few methods to add extra layers of security
-grand_parent: Onboarding
-parent: First time user experience
-nav_order: 3
+parent: Onboarding
+nav_order: 6
 permalink: /guide/onboarding/protecting-a-wallet/
 main_classes: -no-top-padding
 ---

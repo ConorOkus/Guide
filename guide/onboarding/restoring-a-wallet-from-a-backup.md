@@ -2,9 +2,8 @@
 layout: guide
 title: Recovering a wallet
 description: Techniques for recovering a users funds
-grand_parent: Onboarding
-parent: First time user experience
-nav_order: 4
+parent: Onboarding
+nav_order: 8
 permalink: /guide/onboarding/restoring-a-wallet/
 main_classes: -no-top-padding
 ---

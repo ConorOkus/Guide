@@ -2,9 +2,8 @@
 layout: guide
 title: Backing up a recovery phrase
 description: Suggested recovery phrase backups when onboarding
-grand_parent: Onboarding
-parent: First time user experience
-nav_order: 2
+parent: Onboarding
+nav_order: 3
 permalink: /guide/onboarding/backing-up-a-recovery-phrase/
 main_classes: -no-top-padding
 ---
