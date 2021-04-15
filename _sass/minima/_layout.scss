@@ -179,7 +179,11 @@ article.guide h1 {
 .post-content,
 article.guide {
   h1 {
-    margin: $spacing-unit * 1 0;
+    margin-top: $spacing-unit * 1;
+
+    @include media-query(medium-up) {
+      margin-top: $spacing-unit * 2;
+    }
   }
 
   h2, h3, h4, h5, h6 {
