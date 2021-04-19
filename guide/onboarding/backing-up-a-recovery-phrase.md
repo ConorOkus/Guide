@@ -20,6 +20,7 @@ When a user generates a new wallet, it results in creating something called a pr
    width = 250
    height = 250
    alt-text = "recovery phrase interface"
+   caption = "Typical recovery phrase UI from the [UI Kit](Bitcoin Wallet UI Kit)"
    layout = "float-left-desktop -background -shadow"
 %}
 
